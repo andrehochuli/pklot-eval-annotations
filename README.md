@@ -9,3 +9,8 @@ Systems - IJCNN 2022 / WCCI 2022
 
 
 ![image](https://user-images.githubusercontent.com/55806930/169104324-9a346bed-6cb9-46c9-9f74-be12e58553f6.png)
+
+
+
+Link to data: https://drive.google.com/drive/folders/1V7lJEsXIIzXGkbSBprcz-ndqzQ_QnoQW?usp=sharing
+Link to results and model weights: https://drive.google.com/drive/folders/1svs_8FRMb3l-nMq_HoscjZ2v8mr8jO6m?usp=sharing

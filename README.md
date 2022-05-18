@@ -1,2 +1,6 @@
-# Teaching
-Teaching Materials for Computer Sciences and related subjects
+Evaluation of Different Annotation Strategies for
+Deployment of Parking Spaces Classification
+Systems
+
+
+
